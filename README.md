@@ -1,4 +1,6 @@
-589 project phase two.
+What's in the project:
+All the code is here. We haven't finish the online part, so please ingore the client folder.
+The file named with 'CSCI589Phase2' is the documentation of design.
 
 To run the code, you can import the project to Intel XDK, connect the board, upload it to board and run it.
 
